@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Gabrie027-afk/Gabrie027-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Gabriel 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Gestão da Tecnologia da Informação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Focado em aprender Segurança da Informação, AppSec e Pentest Web.
+
+## 🚀 Sobre mim
+
+- 📚 Atualmente estudando SQL, Python e fundamentos de TI.
+- 🛡️ Interesse em segurança de aplicações e identificação de vulnerabilidades.
+- 🎯 Objetivo: conquistar minha primeira oportunidade na área de Tecnologia da Informação.
+- 🌎 Localização: São Paulo, Brasil.
+
+## 🛠️ Tecnologias em aprendizado
+
+- SQL e Banco de Dados
+- Python
+- Redes de Computadores
+- Segurança de Aplicações Web
+
+## 📂 Meus projetos
+
+Em breve, compartilharei meus projetos acadêmicos, exercícios de programação e laboratórios de segurança.
+
+## 📫 Conecte-se comigo
+
+[LinkedIn](https://www.linkedin.com/in/gabriel-oliveira-62a82442a/)
