@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="Gabriel%20Oliveira_%20Noite%20de%20Seguran%C3%A7a%20Cibern%C3%A9tica.png" alt="Banner Gabriel Oliveira" width="100%">
+</p>
 <div align="center">
 
 # 👋 Olá! Eu sou o Gabriel
