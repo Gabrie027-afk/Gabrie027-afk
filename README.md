@@ -50,4 +50,7 @@ exercícios e laboratórios de segurança.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-oliveira-62a82442a/)
 
+[![Instagram](https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biel.o_1/)
+  
+
 </div>
