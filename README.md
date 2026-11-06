@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="Gabriel%20Oliveira_%20Noite%20de%20Seguran%C3%A7a%20Cibern%C3%A9tica.png" alt="Banner Gabriel Oliveira" width="100%">
 </p>
@@ -41,6 +42,26 @@
 
 Em breve, compartilharei projetos acadêmicos,
 exercícios e laboratórios de segurança.
+
+### 💳 ERP Tycred — Sistema de Gestão Financeira
+
+Projeto acadêmico desenvolvido em equipe na UNICID, com foco na criação de um ERP para concessão de crédito e recuperação de dívidas.
+
+O sistema reúne funcionalidades relacionadas à análise de crédito, gestão de empréstimos, contratos, cobranças e controle financeiro.
+
+**🛠️ Tecnologias e conceitos abordados:**
+- SQL e bancos de dados relacionais
+- Modelagem de dados e DER
+- Normalização (1FN, 2FN e 3FN)
+- Regras de negócio e integridade dos dados
+
+**👨‍💻 Minha participação no projeto:**
+- Painel Administrativo (Módulo 2): contribuição na definição e documentação de requisitos e regras de negócio relacionados à análise de crédito.
+- Normalização do banco de dados: participação na análise e documentação das formas normais para reduzir redundâncias e melhorar a organização dos dados.
+
+📌 **Projeto desenvolvido em equipe.**
+
+🔗 [Ver projeto ERP Tycred](https://github.com/Gabriel027-afk/Projeto-ERP-Tycred)
 
 ---
 
