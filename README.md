@@ -62,7 +62,6 @@ O sistema reúne funcionalidades relacionadas à análise de crédito, gestão d
 📌 **Projeto desenvolvido em equipe.**
 
 🔗 [Ver projeto ERP Tycred](https://github.com/Gabriel027-afk/Projeto-ERP-Tycred)
-
 ---
 
 <div align="center">
